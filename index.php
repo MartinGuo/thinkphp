@@ -12,6 +12,7 @@
 // 应用入口文件
 
 
+//panchangzhi
 // hahah 
 // 检测PHP环境
 if (version_compare(PHP_VERSION, '5.3.0', '<')) {
